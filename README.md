@@ -36,8 +36,6 @@ The scan results are saved to a log file named scan_results.txt in the same dire
 # Disclaimer
 Scan!_C0mputer is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The author of this script is not responsible for any damage or loss that may occur as a result of using this script. Use at your own risk.
 
-# License
-This script is licensed under the MIT License.
 
 
 
