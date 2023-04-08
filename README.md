@@ -1,4 +1,3 @@
-# WinAnti
 # Scan!_C0mputer
 Scan!_C0mputer is a Windows batch script that scans your computer for malware, disk errors, system file corruption, and open ports. The script uses Windows Defender, chkdsk, sfc, and netstat to perform the scans and saves the results to a log file.
 
